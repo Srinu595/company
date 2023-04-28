@@ -1,0 +1,1 @@
+insert into person values(10,'srinu','hyd');
